@@ -6,4 +6,6 @@ Tecnologias: Html, CSS, JavaScript e ReactJs
 
 ![quiz_print2](https://user-images.githubusercontent.com/102860659/190021809-1e72c6cc-176c-4125-a59d-6142623c09b3.png)
 
+![image](https://user-images.githubusercontent.com/102860659/190022162-4b72071e-eaee-4463-8248-14a2fa19cafb.png)
+
 ![quiz_print3](https://user-images.githubusercontent.com/102860659/190022039-d14b375c-2b3f-4203-8982-54e93baf91de.png)
